@@ -46,7 +46,7 @@ All Δ-Sync events must be tagged with:
 - AGDI TierX Stack  
 - Toy Rocket Sync Layer (TYS-Sync-v3.2)  
 - Deterministic Fusion Engines ≥ 7.4  
-- Logic Runner 9.2+
+- Agent 9.2+
 
 ---
 
