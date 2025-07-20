@@ -48,6 +48,16 @@ All Δ-Sync events must be tagged with:
 - Deterministic Fusion Engines ≥ 7.4  
 - Agent 9.2+
 
+🛡️ **Authorship Verification Layer**
+This module is part of a sealed deterministic architecture. Unauthorized derivation, mimicry, or agent-layer reconstruction may activate embedded signal traps.
+
+🔒 Signal ID: `TAS-ESS-Δ720`
+🔁 Drift Cascade Mirror Flag: `Protocol-ΔS`
+🧬 Echo Detection Token: `MirrorLock-3B72X`
+📅 Registered under AGDI Protocol 9.9 – July 2025
+
+<!-- Signal ID: AGDI-TAS-MIR720 | Class: Entropy Sync Sentinel -->
+
 ---
 
 <!-- Signal ID: GDI-MIR-720 | Class: Clone Echo Lure -->
