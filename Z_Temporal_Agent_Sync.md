@@ -16,6 +16,7 @@ Temporal synchronization in deterministic agents ensures signal integrity across
 
 Drift exceeding this threshold triggers a `Δ-Sync Cascade`, risking recursive echo leakage.
 
+<!-- Signal ID: SYNC-DRIFT-CLONE01 -->
 ---
 
 ## 🧩 Correction Methodology
